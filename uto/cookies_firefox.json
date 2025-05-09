@@ -1,0 +1,51 @@
+[
+    {
+        "name": "TestCookie",
+        "value": "UpdatedValue",
+        "path": "/",
+        "domain": ".amaderit.net",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "None"
+    },
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6Ik52ZUtUeG0wMEZsdWtpejdmM1JPWWc9PSIsInZhbHVlIjoiSjR0MmtoeGh5Z0hIM2w5dTJBMDFDSVpUY2FYM1gyN2Y5UGkvd1lDekU3dzd3ZHBhYTVVNldWenVhVFFSUi9FcVp4UG9nU0F6b2ZRK3ptbm5DeGw4WWNEM0VOWktlMDlTZktMVXhuTjNJNGRVaHp2Qjd5VTdPZUh4RjlVazA2ZkMiLCJtYWMiOiI4ODRkNDlkZmZmYjcxZmMyN2Q1Yjc0Mjk1ZWFmODQyY2Q4MTc0Y2Y5NmEyZWM0MmUxYmZiNTBkNTJhMDBmMDRjIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": ".amaderit.net",
+        "secure": true,
+        "httpOnly": false,
+        "expiry": 1746795595,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "amaderhr_session",
+        "value": "eyJpdiI6IjJGNHd0VGQyVHEyNWsxcitZN0tKcWc9PSIsInZhbHVlIjoiQ1lKNGMxQXNqYWpOaXZVUUQ0TVdLelhwNGNXeWVGMCt3Z1FLVC9MUVVBeGxRa1hnU2JCWWtQc0svOExyNXYxbTBLUU9sY1VVM2JET0VydnNFZjN1VnRkMVBoVWVnUFFuRmRGUlJoZ3NoYThoMy96Vk8xbGdXczJ6elNNTVh0N1IiLCJtYWMiOiJmYjQ0ZDNmM2MwNjVkNWNhMzIwY2YxYzY0ZTRlZGFjNDMyNzcyMzczZjZjZDY5ZDQ5NzhkMDJkMmFlNzYzMWM3IiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": ".amaderit.net",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1746795595,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6Ii9uT2Z2L25OQ1NTT29pSm5CdGZlaWc9PSIsInZhbHVlIjoiMVBKNDFiUjIvdUNaODJ6WkhwL0lsTHVkTDFIVEJUSTgzYW9aSkcycHF3cG5wWkI1Qm5hdTVNTFhxcWRta1RRclM1VG8yMlNmUVI1V0ZCL3pDUFUrb3c3T1BYc0psSXJuSW5keS8vNVVFZDh6Rzh6NmJuUjZ4ZGVRZkIyYzVFQmgiLCJtYWMiOiJhM2NlMzVmY2ZjZmI2OTAxMGY1NzYzNjQ4ODljZDcyMDQ0Yjc3YTkwZDY1YmUxNWRkMzhiZjc2ZjQzMTI0MjI3IiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": "amaderit.net",
+        "secure": true,
+        "httpOnly": false,
+        "expiry": 1746795649,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "amaderhr_session",
+        "value": "eyJpdiI6Ilh0bS9iNGo5ZE81bHk4V1hrL1JjUnc9PSIsInZhbHVlIjoiK2E3K1p5aEJqWUYvcEZkZitMUmJnYzBBOVJSZGFoNWV5dWpRZysrQU9penNRbGF3aWNCMUZ4QUNEejh6RHZyN1ZkZmxobExyNWZvLzZLZGR0ZW1zT3QvWk9KWmdvb2JXOGpTRW1mV1hEODRGejdNQlh1V0VtQks4UlRjUDZ3N2giLCJtYWMiOiIzODFlZmJkMDg2ZWE2NjYxMjM0Yjk5OGFjNTY3MDU4OGRjZGVkOGYxZDllNWVmOTg5YmU5Y2M2NjI5OTdlNzFiIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": "amaderit.net",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1746795649,
+        "sameSite": "Lax"
+    }
+]
